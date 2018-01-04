@@ -1,0 +1,40 @@
+body
+{
+   background-color:#515556;
+}
+ 
+.one {
+    background-color: #9AA1A3;
+    height: 9%;
+    margin: 1% 8% 1% 8%;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px black;
+}
+
+#column1 {
+    float: left;
+    width: 10%;
+    margin: 2% 3% 10% 10%;
+    height: 40%;
+    border-radius: 10px;
+	background: lightblue;
+}
+
+#column2 {
+	float: right;
+    width: 10%;
+    height: 40%;
+    margin: 2% 10% 10% 3%;
+    border-radius: 10px;
+	background: burlywood;
+}
+
+#centre {
+    overflow: hidden;
+    background: khaki;
+    border-radius: 10px;
+    height: 50%;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 20%;
+}
