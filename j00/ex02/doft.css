@@ -1,0 +1,222 @@
+body
+{
+   background-color:#515556;
+   font-family: Optima, sans-serif
+}
+
+.question
+{
+    width: 5%;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: Optima, sans-serif;
+}
+
+.shadow
+{
+    
+    text-shadow: 8px 5px 10px red;
+}
+
+.entrez{
+  
+    width: 5%;
+    font-size: 30px;
+    font-family: Times, Times New Roman, serif;
+}
+
+header {
+    background-color: #918F91;
+    height: 9%;
+    margin: 1% 8% 1% 8%;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px black;
+}
+
+.second_chair
+{
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 490px;
+    width: 100px;
+    height: 100px;
+}
+
+.mac
+{
+    position: absolute;
+    margin-top: -269px;
+    margin-left: 1200px;
+    width: 100px;
+    height: 100px; 
+}
+
+.right{
+    float: right;
+}
+
+.left
+{
+    float: left;
+}
+
+.species
+{
+    height: 100%;
+}
+
+.loupe
+{
+    width: 20%;
+}
+
+
+.close
+{
+    margin-top: 52%;
+    margin-left: 71%;
+}
+
+#reload
+{
+    width: 20%;
+    margin-left: 67%;
+    margin-top: 4%;
+}
+
+.pop-up span, p {
+    margin: 0px 0px 0px 3px;
+
+}
+
+#column1 {
+    float: left;
+    width: 7%;
+    margin: 0% 1.5% 10% 10%;
+    height: 38%;
+    border-radius: 10px;
+    background-color: #9AA1A3;
+    box-shadow: 8px 8px 8px black;
+}
+
+#column2 {
+	float: right;
+    width: 7%;
+    height: 38%;
+    margin: 0% 10% 10% 1.5%;
+    border-radius: 10px;
+    background-color: #9AA1A3;
+    box-shadow: 8px 8px 8px black;
+}
+
+#centre {
+    overflow: hidden;
+    background-color: #9AA1A3;
+    border-radius: 10px;
+    height: 55%;
+    margin-top: 1%;
+    margin-left: 3%;
+    margin-right: 18%;
+    box-shadow: 8px 8px 8px black;
+}
+
+#cluster
+{
+    width: 98%;
+    height: 97%;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+
+.ol 
+{
+    height: 100%;
+}
+
+.oeil
+{
+    border: 5px ridge red;
+    border-radius: 5px;
+}
+
+#day
+{
+    width: auto;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.icone
+{
+    width: 48%;
+    margin-left: 28%;
+    margin-top: 4%;
+}
+
+.icones
+{
+    width: 48%;
+    margin-left: 28%;
+    margin-top: 7%;
+}
+#br
+{
+    width: 23%;
+}
+
+.iconesright
+{
+    width: 42%;
+    margin-left: 27%;
+    margin-top: 5%;
+}
+
+.bri
+{
+    margin-left: 7%;
+    margin-top: 5%;
+}
+
+#loupe
+{
+    margin-top: 10px;
+    margin-right: -83px;
+    margin-bottom: -30px;
+}
+
+.pop-up
+{
+    position: absolute;
+    height: 14%;
+    background-color: #8CFD8E;
+    width: 27%;
+    border-radius: 10px;
+    margin-left: -11%;
+    margin-top: -5%;
+    box-shadow: 8px 8px 8px black;
+}
+
+button {
+    border: none;
+
+}
+
+input[type=text] {
+    width: 80%;
+    padding: 2px 20px;
+    margin: 8px 8px;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+
+input[type="submit"]{
+    cursor:pointer;
+   }
