@@ -1,0 +1,1 @@
+SELECT id_membre FROM membre INNER JOIN abonnement ON membre.id_abo = abonnement.id_abo AND abonnement.prix > 42;
