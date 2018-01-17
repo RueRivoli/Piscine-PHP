@@ -1,0 +1,9 @@
+<- Vertex ----------------------------------------------------------------------
+The Vertex class handles vertex.
+
+An instance can be contructed from 3 floats x y z 
+and with w an homogeneous coordinate and a color if wanted:
+
+The class provides getters ans setters on the class attributes. 
+It provides also constructor and destructor. But no other method.
+---------------------------------------------------------------------- Vertex ->
